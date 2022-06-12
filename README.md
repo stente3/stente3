@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stente3</h1>
 <h3 align="center">A passionate web developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Advanced JavaScript, PHP and MySQL**
+- 🌱 I’m currently learning **PHP and MySQL**
 
 - 📫 How to reach me **mikarinkitamo1346@gmail.com**
 

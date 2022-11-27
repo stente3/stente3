@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Stente3</h1>
 <h3 align="center">A passionate web developer from Colombia</h3>
 
-- 🌱 I’m currently learning **React-JS and Node-JS**
+- 🌱 I’m currently learning **React-JS**
 
 - 📫 How to reach me **mikarinkitamo1346@gmail.com**
 

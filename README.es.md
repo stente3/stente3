@@ -2,7 +2,7 @@
 <h1 align="center">¡Hola 👋, soy Stente3!</h1>
 <h3 align="center">Un apasionado desarrollador web de Colombia</h3>
 
-- 🌱 Actualmente estoy aprendiendo **React** y **Java**
+- 🌱 Actualmente estoy aprendiendo **React** y **Node.js**
 
 - 📫 Cómo contactarme **mikarinkitamo1346@gmail.com**
 

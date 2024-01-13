@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Stente3</h1>
 <h3 align="center">A passionate web developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Node.js** and **GraphQL**
+- 🌱 I’m currently learning **Node.js** and **Docker**
 
 - 📫 How to reach me **mikarinkitamo1346@gmail.com**
 
